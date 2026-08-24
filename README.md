@@ -1,65 +1,157 @@
 <div align="center">
-  <h1>David Agudelo Valencia</h1>
-  <p><strong>Desarrollador Full Stack · Backend enfocado</strong></p>
-  <p>
-    Construyo aplicaciones web con foco en APIs, lógica de negocio, bases de datos y soluciones mantenibles.
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/david-agudelo-valencia/">LinkedIn</a> ·
-    <a href="mailto:david.agudelo.valencia@gmail.com">Email</a>
-  </p>
+
+# David Agudelo Valencia
+
+### Full-Stack Developer · Backend-focused
+
+**PHP · Laravel · MySQL · Vue.js**
+
+Construyo aplicaciones web enfocadas en backend, APIs, bases de datos y procesos de negocio, con especial interés en crear soluciones mantenibles, seguras y fáciles de evolucionar.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-agudelo-valencia/)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:david.agudelo.valencia@gmail.com)
+
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador Full Stack con mayor enfoque en backend. Trabajo principalmente con **PHP, Laravel y MySQL**, construyendo aplicaciones con autenticación, roles y permisos, APIs, procesos asíncronos, validaciones, pruebas y lógica de negocio.
+Soy desarrollador **Full-Stack con orientación hacia backend**, enfocado principalmente en **PHP y Laravel**.
 
-Me interesa entender el problema completo antes de programar: cómo funciona el proceso, qué reglas debe cumplir y cómo convertirlo en una solución clara, mantenible y escalable.
+Me interesa más resolver correctamente un problema que simplemente implementar una funcionalidad. En proyectos reales he trabajado con:
 
-## 🧠 Lo que mejor sé hacer
+- Diseño y desarrollo de **APIs y aplicaciones web**.
+- **Laravel, Eloquent y MySQL** para construir lógica de negocio y persistencia.
+- **Roles, permisos y middleware** para controlar el acceso a funcionalidades.
+- **Queues** y procesos en segundo plano para tareas como envío de correos.
+- **Validación, transacciones y optimización de consultas**.
+- **Testing**, factories y seeders para mantener proyectos confiables.
+- Integración de frontend con **Vue.js, JavaScript y Tailwind CSS**.
 
-- **Backend:** PHP, Laravel, APIs REST, Eloquent, Middleware, validaciones y lógica de negocio.
-- **Bases de datos:** MySQL, relaciones, consultas y optimización.
-- **Arquitectura y procesos:** roles y permisos, autenticación, colas, envío de correos y manejo de procesos en segundo plano.
-- **Testing:** PHPUnit, Pest, factories y seeders.
-- **Frontend:** JavaScript, Vue.js, Tailwind CSS y React.
-- **Herramientas:** Git, GitHub, Docker, Postman, Insomnia, Jira y Figma.
+También he trabajado con React, Node.js y herramientas del ecosistema de desarrollo, y mantengo una actitud de aprendizaje continuo.
+
+---
+
+## 🧩 En qué me especializo
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend
+
+- PHP
+- Laravel
+- Eloquent ORM
+- APIs REST
+- MySQL
+- Autenticación y autorización
+- Roles y permisos
+- Middleware
+- Queues
+- Transactions
+- Optimización de consultas
+
+</td>
+<td width="50%" valign="top">
+
+### Ingeniería
+
+- Testing con PHPUnit / Pest
+- Factories y Seeders
+- Git y GitHub
+- Docker
+- Postman
+- Insomnia
+- Jira
+- Integración de servicios
+- Diseño de soluciones
+- Resolución de problemas
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tecnologías
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,react,tailwind,python,git,github,docker,postman" alt="Tecnologías" />
-</p>
+### Backend
 
-## 📌 En qué me interesa seguir creciendo
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-Actualmente me interesa profundizar en arquitectura backend, calidad de código, optimización de consultas, testing, automatización y herramientas relacionadas con datos y machine learning.
+### Frontend
 
-## 📊 Actividad en GitHub
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<!-- Generado automáticamente mediante lowlighter/metrics -->
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub
+
+### Actividad y constancia
+
 <p align="center">
-  <img src="./metrics.activity.svg" alt="Actividad reciente en GitHub" width="900" />
+  <img src="./metrics.isocalendar.svg" alt="Calendario de contribuciones de GitHub">
 </p>
 
-## 📈 GitHub
+### Lenguajes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidAgudeloValencia&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAgudeloValencia&layout=compact&hide_border=true&theme=transparent" height="165" alt="Lenguajes más usados" />
+  <img src="./metrics.languages.svg" alt="Lenguajes más utilizados en GitHub">
 </p>
 
-## 🚀 Cómo trabajo
+### Repositorios destacados
 
-**Entender → Diseñar → Construir → Probar → Mejorar**
+<p align="center">
+  <img src="./metrics.repositories.svg" alt="Repositorios destacados de GitHub">
+</p>
 
-Me gusta resolver problemas reales, mantener el código entendible y aprender nuevas herramientas cuando ayudan a construir una solución mejor.
+---
+
+## 🚀 En qué estoy trabajando
+
+Actualmente estoy fortaleciendo mi perfil como desarrollador backend, profundizando en:
+
+- Arquitectura y diseño de aplicaciones.
+- Optimización de bases de datos y consultas.
+- Testing y calidad de código.
+- APIs y servicios.
+- Procesamiento asíncrono con queues.
+- Data Science y Machine Learning como área complementaria.
+
+---
+
+## 📫 Contacto
+
+Si quieres hablar sobre desarrollo web, backend, proyectos o una oportunidad profesional:
+
+**LinkedIn:** [David Agudelo Valencia](https://linkedin.com/in/david-agudelo-valencia/)
+
+**Email:** [david.agudelo.valencia@gmail.com](mailto:david.agudelo.valencia@gmail.com)
 
 ---
 
 <div align="center">
-  <p><strong>¿Construimos algo?</strong></p>
-  <a href="https://www.linkedin.com/in/david-agudelo-valencia/">Conectemos en LinkedIn</a>
+
+_Construir, aprender y mejorar una solución a la vez._
+
 </div>
